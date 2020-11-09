@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <style type="text/css">
+
+  body {
+    background-color: black;
+  }
+  
+  
+  .header {
+  /* // float: left; */
+  text-align: center;
+  /* // top: auto; */
+}
+
+.header-container {
+  text-align: center;
+  padding-left:6em;
+  /* // background-color: black; */
+}
+
+.header-section {
+  background-color: black;
+  background: fixed;
+}
+
+#logo {
+  color: white;
+  font-family: 'Montserrat', monospace;
+  font-weight: bolder;
+  float: left;
+}
+
+.header-option {
+  float: right;
+  font-family: 'Open Sans', monospace;
+  color: white;
+  padding-left: 2em;
+  padding-right: 2em;
+}
+
+#header-option-section {
+  padding-right: 3em;
+}
+
+.button {
+  text-decoration: none;
+  background-color: rgb(98, 0, 255);
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-top-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  width: 14%;
+  width: fit-content;
+  height: fit-content;
+}
+  </style>
+  <title>Header Component Example</title>
+</head>
+<body>
+  <div class="header-container">
+      <div class="header-section">
+        <p id="logo" class="logo">TravelHub</p>
+
+        <div id="header-option-section">
+          <a href="#"><p id="signup" class="header-option button">Join TravelHub</p></a>
+          <a href="#"><p id="login" class="header-option">Login</p></a>
+          <a href="#"><p id="help" class="header-option">Help</p></a>
+          <a href="#"><p id="about-us" class="header-option">About Us</p></a>
+          <a href="#"><p id="home" class="header-option">Home</p></a>
+        </div>
+      </div>
+    </div>
+</body>
+</html>
