@@ -6,74 +6,38 @@
 
   <style type="text/css">
 
-  body {
-    background-color: black;
-  }
-  
-  
-  .header {
-  /* // float: left; */
-  text-align: center;
-  /* // top: auto; */
-}
+    body {
+      margin: 10em;
+    }
+    #login-form {
+      background-color: white;
+      padding: 200px;
+      text-align: center;
+      box-shadow: 20px 20px 20px rgb(230, 230, 230);
+      border-radius: 20px;
+      /* opacity: 20%; */
+    }
 
-.header-container {
-  text-align: center;
-  padding-left:6em;
-  /* // background-color: black; */
-}
+    #usernameTitle, #passwordTitle {
+      font-family: 'Montserrat', monospace;
+      /* font-size: large; */
+      font-weight: bold;
+    }
 
-.header-section {
-  background-color: black;
-  background: fixed;
-}
-
-#logo {
-  color: white;
-  font-family: 'Montserrat', monospace;
-  font-weight: bolder;
-  float: left;
-}
-
-.header-option {
-  float: right;
-  font-family: 'Open Sans', monospace;
-  color: white;
-  padding-left: 2em;
-  padding-right: 2em;
-}
-
-#header-option-section {
-  padding-right: 3em;
-}
-
-.button {
-  text-decoration: none;
-  background-color: rgb(98, 0, 255);
-  border-top-right-radius: 20px;
-  border-bottom-left-radius: 20px;
-  border-top-left-radius: 20px;
-  border-bottom-right-radius: 20px;
-  width: 14%;
-  width: fit-content;
-  height: fit-content;
-}
   </style>
-  <title>Header Component Example</title>
+  <title>Header Example</title>
 </head>
 <body>
-  <div class="header-container">
-      <div class="header-section">
-        <p id="logo" class="logo">TravelHub</p>
+  <div id="login-form">
+    <form action="GET" id="loginForm" class="login">
+      <p id="usernameTitle"> Username
+        <input type="text" id="usernameInput">
+      </p>
 
-        <div id="header-option-section">
-          <a href="#"><p id="signup" class="header-option button">Join TravelHub</p></a>
-          <a href="#"><p id="login" class="header-option">Login</p></a>
-          <a href="#"><p id="help" class="header-option">Help</p></a>
-          <a href="#"><p id="about-us" class="header-option">About Us</p></a>
-          <a href="#"><p id="home" class="header-option">Home</p></a>
-        </div>
-      </div>
-    </div>
+      <p id="passwordTitle"> Password
+      <input type="password" id="passwordInput">
+      </p>
+    </form>
+  </div>
 </body>
 </html>
