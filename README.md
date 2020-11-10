@@ -7,7 +7,7 @@ This project mainly deals with web-component development and writing highly-effi
 
 ## Rules of Contribution
 
-To see the rules for contribution, click on (https://github.com/yashsehgal/appsite-web/blob/master/CONTRIBUTING.md)[CONTRIBUTION] or go to ```CONTRIBUTING.md```
+To see the rules for contribution, click on [CONTRIBUTION](https://github.com/yashsehgal/appsite-web/blob/master/CONTRIBUTING.md) or go to ```CONTRIBUTING.md```
 
 ## How to start
 
