@@ -3,9 +3,88 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+   <!--linking google fonts link-->
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+  <link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+
+  <link rel="stylesheet" href="css/style.css">
   <title>AppSite</title>
 </head>
 <body>
-  <!--code here-->
+
+  <div id="root">
+    <div id="header-container" class="header">
+      <p id="logo-text">
+        <a href="/index.htm" id="logo-link" class="non-decorated-link">AppSite</a>
+        <div id="header-options" class="headerOptions">
+          <!-- <p id="download" class="headerOption headerOptionButton">
+            <a href="#" class="non-decorated-link">
+              <img src="webAssets/svgComponents/buttonComponents/download-button.svg" alt="download" id="downloadButton" class="downloadBTN">
+            </a>
+          </p> -->
+          <p id="github" class="headerOption">
+            <a href="https://github.com/yashsehgal/appsite-web/" class="non-decorated-link">GitHub</a>
+          </p>
+          <p id="about" class="headerOption">
+            <a href="#" class="non-decorated-link">About</a>
+          </p>
+          <p id="home" class="headerOption">
+            <a href="/index.htm" class="non-decorated-link">Home</a>
+          </p>
+        </div>
+      </p>
+    </div>
+
+    <div id="landingContentContainer">
+      <div id="landingContentSection">
+        <p id="introductionHeadline" class="headlineText">
+          Get modern ui-web components.
+        </p>
+        <p id="introductionDescriptionText" class="descriptionText">
+          Use pre-designed web UI  <br />
+          components for your website.
+        </p>
+      </div>
+
+      <div id="Download_LearnMoreButtonSection">
+        <div id="Button">
+          <a href="#" class="non-decorated-link">
+            <img src="webAssets/svgComponents/buttonComponents/download-button.svg" alt="download" id="download" class="buttonComponent">
+          </a>
+            <img src="webAssets/svgComponents/buttonComponents/learn-more-button.svg" alt="learnMore" id="learnMore" class="buttonComponent">
+        </div>
+      </div>
+    </div>
+    <div id="demoImageComponentSection">
+        <img src="webAssets/svgComponents/demoComponents/demoComponentImage.svg" alt="demoComponentImage" id="demoComponentImage" class="demoImage">
+    </div>
+
+    <!--components demo container-->
+    <div id="componentDemoContainer">
+      <div id="componentDemoSection">
+        <p id="introductionHeadline" class="headlineText">
+          AppSite Web UI Components
+        </p>
+        <p id="introductionDescriptionText" class="descriptionText">
+          You will get these for free.
+        </p>
+      </div>
+
+      <div id="Download_LearnMoreButtonSection">
+        <div id="Button">
+          <a href="#" class="non-decorated-link">
+            <img src="webAssets/svgComponents/buttonComponents/getUIKitButton.svg" alt="getUIKitButton" id="getUIKitButton" class="buttonComponent">
+          </a>
+            <!-- <img src="webAssets/svgComponents/buttonComponents/learn-more-button.svg" alt="learnMore" id="learnMore" class="buttonComponent"> -->
+        </div>
+      </div>
+    </div>
+    <div id="componentDemoImageSection">
+        <img src="webAssets/svgComponents/demoComponents/componentDemoImage.svg" alt="componentDemoImage" id="componentDemoImage" class="demoImage">
+    </div>
+
+  </div> <!--closing of root container-->
 </body>
 </html>
