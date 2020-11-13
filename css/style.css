@@ -101,7 +101,7 @@
   padding-left: 4em;
 }
 
-#demoImageComponentSection, #componentDemoImageSection {
+#demoImageComponentSection #componentDemoImageSection {
   float: right;
   padding-top: 8em;
   margin-right: 60px;
