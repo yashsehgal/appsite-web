@@ -5,9 +5,12 @@
 #root {
   max-width               :         100%;
   margin                  :         auto;
-  align-content           :         center;
-  align-items             :         center;
-  align-self              :         center;
+  align-content           :         auto;
+  align-items             :         auto;
+  align-self              :         auto;
+  width                   :         auto;
+  object-fit              :         contain;
+  overflow                :         hidden;
 }
 
 .non-decorated-link {
@@ -111,8 +114,4 @@
   padding-left            :         9em;
   padding-top             :         10em;
   overflow                :         hidden;
-}
-
-#componentDemoSection {
-  float                   :         left;
 }

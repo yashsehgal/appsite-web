@@ -5,14 +5,18 @@
 #root {
   max-width: 100%;
   margin: auto;
-  -ms-flex-line-pack: center;
-      align-content: center;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-  -ms-flex-item-align: center;
-      -ms-grid-row-align: center;
-      align-self: center;
+  -ms-flex-line-pack: auto;
+      align-content: auto;
+  -webkit-box-align: auto;
+      -ms-flex-align: auto;
+          align-items: auto;
+  -ms-flex-item-align: auto;
+      -ms-grid-row-align: auto;
+      align-self: auto;
+  width: auto;
+  -o-object-fit: contain;
+     object-fit: contain;
+  overflow: hidden;
 }
 
 .non-decorated-link {
@@ -118,9 +122,5 @@
   padding-left: 9em;
   padding-top: 10em;
   overflow: hidden;
-}
-
-#componentDemoSection {
-  float: left;
 }
 /*# sourceMappingURL=style.css.map */

@@ -1,5 +1,13 @@
 # Appsite - Web
 
+### Workflow Status
+Badge Name | Status
+:--------------:|:-----------:
+Default CI | ![CI](https://github.com/yashsehgal/appsite-web/workflows/CI/badge.svg?branch=master)
+
+_________________________________
+
+
 ## About this Project
 
 Hey There, I am Yash Sehgal, One of the initial developers of this open-source project. This project is to teach the basics of open-source development to beginners.
