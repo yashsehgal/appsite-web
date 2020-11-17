@@ -2,6 +2,16 @@
   margin: 0;
 }
 
+* ::-moz-selection {
+  color: black;
+  background-color: rgba(92, 255, 184, 0.6);
+}
+
+* ::selection {
+  color: black;
+  background-color: rgba(92, 255, 184, 0.6);
+}
+
 #root {
   max-width: 100%;
   margin: auto;
@@ -122,5 +132,46 @@
   padding-left: 9em;
   padding-top: 10em;
   overflow: hidden;
+}
+
+#contributeContainer {
+  float: left;
+  padding-left: 10em;
+  padding-top: 10em;
+  overflow: hidden;
+}
+
+#contributeSection {
+  overflow: hidden;
+}
+
+#seeProject {
+  padding-left: 4em;
+}
+
+#projectEnvironmentSetupContainer {
+  padding-top: 8em;
+  margin: auto;
+}
+
+#setupProcedure {
+  padding-top: 3em;
+}
+
+.procedureStep {
+  color: black;
+  font-size: medium;
+  font-weight: normal;
+  text-decoration: none;
+  padding-top: 4em;
+  font-family: 'Montserrat', monospace;
+}
+
+#step01 #step02 #step03 #step04 {
+  padding-bottom: 1em;
+}
+
+.demoImage_ {
+  width: 90% auto;
 }
 /*# sourceMappingURL=style.css.map */
