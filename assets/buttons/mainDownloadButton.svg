@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="188" height="45" viewBox="0 0 188 45">
+  <g id="mainDownloadButton" transform="translate(-876.5 -572)">
+    <rect id="Rectangle_2" data-name="Rectangle 2" width="188" height="45" rx="22.5" transform="translate(876.5 572)" fill="#005fff"/>
+    <text id="download" transform="translate(906.5 602)" fill="#fff" font-size="20" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">download</tspan></text>
+    <g id="Group_3" data-name="Group 3" transform="translate(-18 3)">
+      <g id="Group_2" data-name="Group 2">
+        <g id="Rectangle_3" data-name="Rectangle 3" transform="translate(1044 581)" fill="#fff" stroke="#fff" stroke-width="1">
+          <rect width="2" height="12" rx="0.4" stroke="none"/>
+          <rect x="0.5" y="0.5" width="1" height="11" rx="0.1" fill="none"/>
+        </g>
+        <path id="Polygon_1" data-name="Polygon 1" d="M3.826.3a.2.2,0,0,1,.347,0L7.829,6.7a.2.2,0,0,1-.174.3H.345a.2.2,0,0,1-.174-.3Z" transform="translate(1049 598) rotate(180)" fill="#fff"/>
+      </g>
+      <g id="Rectangle_4" data-name="Rectangle 4" transform="translate(1051 599) rotate(90)" fill="#fff" stroke="#fff" stroke-width="1">
+        <rect width="2" height="12" rx="0.4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="1" height="11" rx="0.1" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

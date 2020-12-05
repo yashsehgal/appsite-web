@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+:root {
+  --primary-color: #005FFF;
+  --secondary-color: black;
+  --headline-font: 'Montserrat', monospace;
+  --description-font: 'Open Sans', monospace;
+  --container-spacing: 2em;
+}
+/*# sourceMappingURL=variables.css.map */
