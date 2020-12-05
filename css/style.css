@@ -88,4 +88,31 @@
   margin-left: 3em;
   margin-right: 3em;
 }
+
+.component-animation {
+  display: inline-block;
+  width: 800px;
+  height: 600px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  margin-top: 40px;
+  position: relative;
+}
+
+.column .blind .blindImg {
+  position: absolute;
+  top: 0;
+  height: 100%;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.blind {
+  overflow: hidden;
+}
+
+.blindImg {
+  width: 100%;
+  background-size: cover;
+}
 /*# sourceMappingURL=style.css.map */
