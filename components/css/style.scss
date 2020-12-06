@@ -1,0 +1,89 @@
+body {
+  margin-left: 40px;
+  margin-right: 30px;
+  margin-top: 2em;
+}
+
+#header {
+  text-align: center;
+  width: auto;
+  overflow: hidden;
+}
+
+.option {
+  color: black;
+  font-family: var(--headline-font);
+  font-weight: bolder;
+  text-decoration: none;
+  // padding-left: 1em;
+  // padding-right: 1em;
+}
+
+#introduction-section {
+  text-align: center;
+  padding: var(--container-spacing);
+}
+
+#introduction-headline {
+  text-align: center;
+  font-family: var(--headline-font);
+  color: rgb(14, 14, 14);
+  font-weight: bolder;
+  font-size: 58px;
+}
+
+#description-text {
+  text-align: center;
+  font-family: var(--headline-font);
+  font-weight: bold;
+  font-size: medium;
+  color: black;
+}
+
+#mainDownloadButton {
+  text-align: center;
+  text-decoration: none;
+  background: none;
+  width: 200px;
+}
+
+#get-components-section {
+  text-align: center;
+  padding: var(--container-spacing);
+}
+
+#get-components-headline {
+  color: black;
+  font-family: var(--headline-font);
+  font-weight: bolder;
+  font-size: 40px;
+}
+
+#card-demo-flex {
+  text-align: center;
+}
+
+.flex-container {
+  display: flex;
+  text-align: center;
+  flex-wrap: nowrap;
+  background-color: none;
+}
+
+.flex-container>div {
+  /* // background-color: none; */
+  background: inherit;
+  width: 100px;
+  margin: 100px;
+  text-align: center;
+  line-height: 100px;
+  font-size: 30px;
+  /* // padding-left: 4em; */
+}
+
+.card {
+  cursor: context-menu;
+  width: 250px;
+  margin-left: 3em;
+  margin-right: 3em;
+}

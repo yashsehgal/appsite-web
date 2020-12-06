@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="374.487" height="512" viewBox="0 0 374.487 512">
+  <g id="demoComponent03" transform="translate(-1305.513 -892)">
+    <g id="demoComponent03-2" data-name="demoComponent03">
+      <rect id="Rectangle_10" data-name="Rectangle 10" width="374.487" height="335.364" transform="translate(1305.513 978)" fill="#16485a"/>
+      <rect id="Rectangle_11" data-name="Rectangle 11" width="374.487" height="60" transform="translate(1305.513 978)" fill="#00e7a2"/>
+      <path id="Rectangle_22" data-name="Rectangle 22" d="M10,0H202a0,0,0,0,1,0,0V128a0,0,0,0,1,0,0H10A10,10,0,0,1,0,118V10A10,10,0,0,1,10,0Z" transform="translate(1478 1106)" fill="#1d586d"/>
+      <rect id="Rectangle_23" data-name="Rectangle 23" width="324" height="17" rx="8" transform="translate(1331 1065)" fill="#1d586d"/>
+      <rect id="Rectangle_24" data-name="Rectangle 24" width="324" height="17" rx="8" transform="translate(1331 1258)" fill="#1d586d"/>
+      <rect id="Rectangle_25" data-name="Rectangle 25" width="111" height="17" rx="8" transform="translate(1331 1109)" fill="#1d586d"/>
+      <rect id="Rectangle_26" data-name="Rectangle 26" width="111" height="17" rx="8" transform="translate(1331 1138)" fill="#1d586d"/>
+      <rect id="Rectangle_27" data-name="Rectangle 27" width="111" height="17" rx="8" transform="translate(1331 1167)" fill="#1d586d"/>
+      <rect id="Rectangle_28" data-name="Rectangle 28" width="111" height="45" rx="8" transform="translate(1331 1196)" fill="#1d586d"/>
+    </g>
+    <text id="Use_that_code_snippet_for_your_web-components" data-name="Use that code snippet
+for your web-components" transform="translate(1493 1358)" font-size="28" font-family="OpenSans-SemiBold, Open Sans" font-weight="600"><tspan x="-147.089" y="0">Use that code snippet</tspan><tspan x="-174.952" y="38">for your web-components</tspan></text>
+    <text id="Step_03" data-name="Step 03" transform="translate(1420 928)" fill="#292929" font-size="37" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">Step 03</tspan></text>
+  </g>
+</svg>

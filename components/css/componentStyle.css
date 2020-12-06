@@ -1,0 +1,98 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+#component-container {
+  width: 52em;
+  height: 10em;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+
+#component-screenshot {
+  float: left;
+  width: 12em;
+  height: 12em;
+  background-color: #AE00D2;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+
+#component-screenshot {
+  background-image: url("/components/component-items/social-media-icons-component/SMIC_C001_CODE/Image 1.svg");
+  /* // height: 100%; */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#component-description {
+  float: right;
+  width: 40em;
+  height: 12em;
+  background-color: #EFEFEF;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+#watch-online {
+  color: white;
+  font-family: 'Montserrat', monospace;
+  font-weight: bold;
+  margin-top: 9em;
+  margin-left: 1em;
+}
+
+#component-title-heading {
+  color: black;
+  font-family: 'Montserrat', monospace;
+  font-weight: bold;
+  margin-left: 1.7em;
+}
+
+#user-description {
+  color: gray;
+  font-family: 'Open Sans';
+  font-weight: bold;
+  font-size: 12px;
+  margin-left: 2.2em;
+}
+
+#getCodeLink {
+  color: #AE00D2;
+  font-family: 'Open Sans';
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 12px;
+  margin-right: 4em;
+}
+
+#languages-used {
+  color: gray;
+  font-family: 'Open Sans';
+  font-size: 12px;
+  font-weight: bold;
+  float: right;
+  margin-right: 2em;
+}
+
+#downloadCodeButton {
+  width: 125px;
+  margin-left: 1.5em;
+}
+
+#flex-handler {
+  padding-left: 2em;
+  line-height: 10px;
+  -webkit-margin-before: 10em;
+          margin-block-start: 10em;
+}
+
+#link-margin-handler {
+  margin: 2em;
+  margin-left: 1.8em;
+}
+
+.watchOnline {
+  text-decoration: none;
+  cursor: pointer;
+}
+/*# sourceMappingURL=componentStyle.css.map */

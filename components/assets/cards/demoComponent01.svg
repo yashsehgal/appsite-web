@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="374.487" height="512" viewBox="0 0 374.487 512">
+  <g id="demoComponent01" transform="translate(-240 -892)">
+    <g id="demoComponent01-2" data-name="demoComponent01">
+      <rect id="Rectangle_12" data-name="Rectangle 12" width="374.487" height="335.364" transform="translate(240 978)" fill="#16485a"/>
+      <rect id="Rectangle_13" data-name="Rectangle 13" width="374.487" height="60" transform="translate(240 978)" fill="#00e7a2"/>
+      <rect id="Rectangle_14" data-name="Rectangle 14" width="195" height="73" rx="8" transform="translate(265 1063)" fill="#1d586d"/>
+      <rect id="Rectangle_15" data-name="Rectangle 15" width="324" height="17" rx="8" transform="translate(265 1161)" fill="#1d586d"/>
+      <rect id="Rectangle_16" data-name="Rectangle 16" width="324" height="17" rx="8" transform="translate(265 1192)" fill="#1d586d"/>
+      <rect id="Rectangle_17" data-name="Rectangle 17" width="195" height="17" rx="8" transform="translate(265 1223)" fill="#1d586d"/>
+    </g>
+    <text id="select_the_component_you_want_to_use" data-name="select the component you 
+want to use" transform="translate(427 1358)" font-size="28" font-family="OpenSans-SemiBold, Open Sans" font-weight="600"><tspan x="-178.719" y="0">select the component you </tspan><tspan x="-79.044" y="38">want to use</tspan></text>
+    <text id="Step_01" data-name="Step 01" transform="translate(358 928)" fill="#292929" font-size="37" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">Step 01</tspan></text>
+  </g>
+</svg>
