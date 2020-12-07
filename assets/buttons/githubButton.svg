@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="188" height="45" viewBox="0 0 188 45">
+  <g id="githubButton" transform="translate(-876.5 -572)">
+    <g id="Rectangle_2" data-name="Rectangle 2" transform="translate(876.5 572)" fill="#fff" stroke="#005fff" stroke-width="2">
+      <rect width="188" height="45" rx="22.5" stroke="none"/>
+      <rect x="1" y="1" width="186" height="43" rx="21.5" fill="none"/>
+    </g>
+    <text id="check_github" data-name="check github" transform="translate(901 602)" fill="#005fff" font-size="20" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">check github</tspan></text>
+  </g>
+</svg>

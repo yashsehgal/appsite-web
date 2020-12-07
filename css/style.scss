@@ -120,3 +120,15 @@
   width: 100%;
   background-size: cover;
 }
+
+#contribute-now-section {
+  text-align: center;
+  padding: var(--container-spacing);
+}
+
+#contribute-now-headline {
+  color: black;
+  font-family: var(--headline-font);
+  font-weight: bolder;
+  font-size: 40px;
+}
