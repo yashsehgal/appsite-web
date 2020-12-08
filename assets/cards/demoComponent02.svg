@@ -1,16 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="374.487" height="550" viewBox="0 0 374.487 550">
-  <g id="demoComponent02" transform="translate(-772.757 -892)">
-    <g id="demoComponent02-2" data-name="demoComponent02">
-      <rect id="Rectangle_8" data-name="Rectangle 8" width="374.487" height="335.364" transform="translate(772.757 978)" fill="#16485a"/>
-      <rect id="Rectangle_9" data-name="Rectangle 9" width="374.487" height="60" transform="translate(772.757 978)" fill="#00e7a2"/>
-      <rect id="Rectangle_18" data-name="Rectangle 18" width="324" height="73" rx="8" transform="translate(798 1073)" fill="#1d586d"/>
-      <rect id="Rectangle_19" data-name="Rectangle 19" width="324" height="17" rx="8" transform="translate(798 1170)" fill="#1d586d"/>
-      <rect id="Rectangle_20" data-name="Rectangle 20" width="324" height="17" rx="8" transform="translate(798 1201)" fill="#1d586d"/>
-      <rect id="Rectangle_21" data-name="Rectangle 21" width="195" height="17" rx="8" transform="translate(862.5 1232)" fill="#1d586d"/>
-    </g>
-    <text id="copy_HTML_and_CSS_or_simply_download_the_component" data-name="copy HTML and CSS
-or simply download the 
-component" transform="translate(960 1358)" font-size="28" font-family="OpenSans-SemiBold, Open Sans" font-weight="600"><tspan x="-131.564" y="0">copy HTML and CSS</tspan><tspan x="-162.723" y="38">or simply download the </tspan><tspan x="-77.485" y="76">component</tspan></text>
-    <text id="Step_02" data-name="Step 02" transform="translate(891 928)" fill="#292929" font-size="37" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">Step 02</tspan></text>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="374.487" height="550" viewBox="0 0 374.487 550"><g id="demoComponent02" transform="translate(-772.757 -892)"><g id="demoComponent02-2" data-name="demoComponent02"><rect id="Rectangle_8" width="374.487" height="335.364" fill="#16485a" data-name="Rectangle 8" transform="translate(772.757 978)"/><rect id="Rectangle_9" width="374.487" height="60" fill="#00e7a2" data-name="Rectangle 9" transform="translate(772.757 978)"/><rect id="Rectangle_18" width="324" height="73" fill="#1d586d" data-name="Rectangle 18" rx="8" transform="translate(798 1073)"/><rect id="Rectangle_19" width="324" height="17" fill="#1d586d" data-name="Rectangle 19" rx="8" transform="translate(798 1170)"/><rect id="Rectangle_20" width="324" height="17" fill="#1d586d" data-name="Rectangle 20" rx="8" transform="translate(798 1201)"/><rect id="Rectangle_21" width="195" height="17" fill="#1d586d" data-name="Rectangle 21" rx="8" transform="translate(862.5 1232)"/></g><text id="copy_HTML_and_CSS_or_simply_download_the_component" data-name="copy HTML and CSS or simply download the component" font-family="OpenSans-SemiBold, Open Sans" font-size="28" font-weight="600" transform="translate(960 1358)"><tspan x="-131.564" y="0">copy HTML and CSS</tspan><tspan x="-162.723" y="38">or simply download the </tspan><tspan x="-77.485" y="76">component</tspan></text><text id="Step_02" fill="#292929" data-name="Step 02" font-family="Montserrat-Bold, Montserrat" font-size="37" font-weight="700" transform="translate(891 928)"><tspan x="0" y="0">Step 02</tspan></text></g></svg>

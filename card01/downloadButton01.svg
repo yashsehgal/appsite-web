@@ -1,6 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="165" height="43" viewBox="0 0 165 43">
-  <g id="Group_4" data-name="Group 4" transform="translate(-489 -233)">
-    <rect id="Rectangle_7" data-name="Rectangle 7" width="165" height="43" rx="21.5" transform="translate(489 233)" fill="#ae00d2"/>
-    <text id="Download" transform="translate(572 260)" fill="#fff" font-size="16" font-family="OpenSans-SemiBold, Open Sans" font-weight="600"><tspan x="-39.113" y="0">Download</tspan></text>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="165" height="43" viewBox="0 0 165 43"><g id="Group_4" data-name="Group 4" transform="translate(-489 -233)"><rect id="Rectangle_7" width="165" height="43" fill="#ae00d2" data-name="Rectangle 7" rx="21.5" transform="translate(489 233)"/><text id="Download" fill="#fff" font-family="OpenSans-SemiBold, Open Sans" font-size="16" font-weight="600" transform="translate(572 260)"><tspan x="-39.113" y="0">Download</tspan></text></g></svg>
