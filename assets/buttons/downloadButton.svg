@@ -1,6 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="167" height="45" viewBox="0 0 167 45">
-  <g id="downloadButton" transform="translate(-1513 -36)">
-    <rect id="Rectangle_2" data-name="Rectangle 2" width="167" height="45" rx="22.5" transform="translate(1513 36)" fill="#005fff"/>
-    <text id="download" transform="translate(1547 66)" fill="#fff" font-size="20" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="0" y="0">download</tspan></text>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="167" height="45" viewBox="0 0 167 45"><g id="downloadButton" transform="translate(-1513 -36)"><rect id="Rectangle_2" width="167" height="45" fill="#005fff" data-name="Rectangle 2" rx="22.5" transform="translate(1513 36)"/><text id="download" fill="#fff" font-family="OpenSans-Bold, Open Sans" font-size="20" font-weight="700" transform="translate(1547 66)"><tspan x="0" y="0">download</tspan></text></g></svg>
